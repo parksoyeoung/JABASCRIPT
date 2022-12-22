@@ -1,5 +1,6 @@
-let cm;
 let inch = parseFloat(prompt("변환할 인치를 입력하세요."));
+let cm;
+
 
 
 cm = inch * 2.54;
